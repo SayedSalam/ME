@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, My Name is Sayed Sallam
+#### I am a Full stack Web Developer 
+![I am a Full stack Web Developer ](https://scontent-hbe1-1.xx.fbcdn.net/v/t39.30808-6/354070033_3606897682862410_5478509526980213109_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGI9Ncfv49j2gW5GMbwN4Deh649cWoWT_eHrj1xahZP99mXQ00XdXFuku_D4LgJ19pbN6RyEFhOkcoR8RQ9SV6-&_nc_ohc=KqntLOAPKcoAX8rFMPA&_nc_ht=scontent-hbe1-1.xx&oh=00_AfBui1aq3PG60gOb3qVaAZeBx_om6OQCM4e-YL0SnH0s6g&oe=660E3FF1)
 
-<!--
-**SayedSalam/sayedsalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I graduated from the faculty of Computer science Zagazig University . I love to share my experience and what I am learning with others . I also love to learn a new something every single day .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+* HTML 5 
+* CSS 3
+*  JavaScript & ES6
+*   jQuery
+*    Bootstrap
+*     VUE. JS
+*  MySQL
+*  PHP 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+

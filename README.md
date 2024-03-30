@@ -1,10 +1,18 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
+### Hi there 👋, my name is Sayed Sallam
+#### I am a Full Stack Web Developer 
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I graduated from the faculty of Computer science Zagazig University . I love to share my experience and what I am learning with others . I also love to learn a new something every single day .
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:
+* HTML 5
+* CSS 3
+* JS & ES6
+* jQuery
+*  Bootstrap
+*  Vue.js
+*  MySQL
+*  PHP
 
 - 🔭 I’m currently working on this page. 
 

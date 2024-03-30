@@ -11,7 +11,7 @@ Skills:
 *  JavaScript & ES6
 *   jQuery
 *    Bootstrap
-*     VUE. JS
+*    Vue.js
 *  MySQL
 *  PHP 
 
